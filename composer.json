@@ -32,7 +32,8 @@
 	},
 	"require"     : {
 		"php" : ">=5.6",
-		"justintadlock/hybrid-support": "dev-main#5d07b82"
+		"themehybrid/hybrid-contracts" : "dev-master",
+		"themehybrid/hybrid-tools" : "dev-master"
 	},
 	"config": {
 		"optimize-autoloader": true,
